@@ -9,9 +9,6 @@ Most of my production work is closed-source. The public repos here are side proj
 
 **Stack:** Angular, TypeScript, RxJS, PrimeNG, Tailwind CSS, i18n / RTL, WebSocket. Familiar with Node.js, Express and MongoDB.
 
-### Public projects
-- [hermes-noir](https://github.com/mohamedessambarakat/hermes-noir): a near-black, monochrome restyle plugin for the Hermes Agent desktop app.
-- [express-ts-setup](https://github.com/mohamedessambarakat/express-ts-setup): a PowerShell script that scaffolds a TypeScript + Express + MongoDB project.
 
 ### Links
 [essam.pro](https://essam.pro) · [LinkedIn](https://www.linkedin.com/in/mohamedessambarakat/) · [CV](https://essam.pro/Mohamed_Essam_Barakat_CV.pdf) · mohamedessambarakat.dev@gmail.com
